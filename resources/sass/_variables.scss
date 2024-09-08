@@ -1,0 +1,17 @@
+// Body
+$body-bg: #fff;
+
+// Typography
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+/*
+$spacer: 1rem;
+$spacers: ( 0:0);
+@for $i from 1 through 150 {
+  $spacers: map-merge($spacers, (
+  $i: ($i * $spacer)
+  ));
+}
+  */
